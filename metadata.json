@@ -1,0 +1,6 @@
+{
+  "name": "Misia Obiady Domowe",
+  "description": "Domowe obiady jak u mamy w Szczecinie. Danie dnia, abonament, catering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
